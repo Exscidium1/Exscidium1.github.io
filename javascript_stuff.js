@@ -1,3 +1,5 @@
+import React
+
 class Square extends React.Component {
   render() {
     return (
